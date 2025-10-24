@@ -71,7 +71,7 @@
     "@japa/runner": "^4.3.0",
     "@libsql/sqlite3": "^0.3.1",
     "@release-it/conventional-changelog": "^10.0.1",
-    "@swc/core": "1.13.1",
+    "@swc/core": "1.13.20",
     "@types/chance": "^1.1.7",
     "@types/luxon": "^3.6.2",
     "@types/node": "^24.0.15",
