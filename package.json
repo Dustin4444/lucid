@@ -74,7 +74,7 @@
     "@swc/core": "1.13.1",
     "@types/chance": "^1.1.7",
     "@types/luxon": "^3.6.2",
-    "@types/node": "^24.0.15",
+    "@types/node": "^25.0.1",
     "@types/pretty-hrtime": "^1.0.3",
     "@types/qs": "^6.14.0",
     "@vinejs/vine": "^3.0.1",
