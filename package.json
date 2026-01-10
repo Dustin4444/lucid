@@ -67,7 +67,7 @@
     "@adonisjs/tsconfig": "^1.4.1",
     "@japa/assert": "^4.1.0",
     "@japa/expect-type": "^2.0.3",
-    "@japa/file-system": "^2.3.2",
+    "@japa/file-system": "^3.0.0",
     "@japa/runner": "^4.3.0",
     "@libsql/sqlite3": "^0.3.1",
     "@release-it/conventional-changelog": "^10.0.1",
